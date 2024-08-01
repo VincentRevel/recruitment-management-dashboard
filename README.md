@@ -77,7 +77,7 @@ The Recruitment Management Dashboard is tailored for HR departments and recruitm
 - **Data Visualization Tools**: Power BI
 - **Data Processing**: Python & SQL
 - **Design and Layout**: Figma (for initial design concepts)
-- **Dataset Generation**: Custom ChatGPT Power BI Wizard by minasaad.online that you can access at [this link](https://github.com/VincentRevel/recruitment-management-dashboard/tree/main/Dataset)
+- **Dataset Generation**: Custom ChatGPT Power BI Wizard by minasaad.online that you can access [here](https://github.com/VincentRevel/recruitment-management-dashboard/tree/main/Dataset)
 
 ## Future Enhancements
 
