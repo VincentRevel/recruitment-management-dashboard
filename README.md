@@ -20,7 +20,7 @@ The primary goal of this project is to develop a user-friendly dashboard that:
 
 ### Page 1: Summary Dashboard
 
-![Summary Dashboard](path/to/summary_dashboard_image.png)
+![Summary Dashboard](images/Summary_dashboard_image.png)
 
 1. **Graph Area (Comparison Hired and Required)**:
    - Displays a time-based line graph comparing the number of positions required versus positions hired.
@@ -46,12 +46,14 @@ The primary goal of this project is to develop a user-friendly dashboard that:
    - **Post Date**: Date when the job postings were made.
 
 6. **Short Message Card**:
+![short message 1](images/shortmessage_1.png)
+![short message 2](images/shortmessage_2.png)
    - Displays a brief status message based on the job hiring status and costs.
    - Provides a quick overview of the current hiring situation.
 
 ### Page 2: Detailed Applicant Information
 
-![Applicant Table](path/to/applicant_table_image.png)
+![Applicant Table](images/Secondpage.png)
 
 1. **Applicant Table**:
    - Provides detailed information about each applicant.

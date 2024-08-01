@@ -1,0 +1,501 @@
+ApplicationID,JobID,ApplicantName,Status,HiringCost,ExperienceYears,HighestDegree,University,RejectionReason,ApplicationDate
+1,10,John Bradley,Rejected,0,12,Bachelor,Perkins-Hall,Salary,2023-07-07
+2,22,Sandra Donovan,Accepted,16538877,8,Master,"Gallagher, Ross and Lee",,2022-03-30
+3,60,Kristin Gentry,Shortlisted,0,2,Associate,"Brown, Mack and Dixon",,2022-01-15
+4,52,Alyssa Allen,Accepted,10596601,12,Master,Collins and Sons,,2022-11-14
+5,40,Dennis Green,Processed,0,12,Bachelor,Wilson-Rodriguez,,2022-06-29
+6,34,Michael Alvarado,Rejected,0,3,Bachelor,Harrington-Castillo,,2022-12-21
+7,25,Jonathan Arnold,Shortlisted,0,13,Bachelor,"Williams, Peck and Garza",,2023-03-20
+8,24,Danielle Lozano,Shortlisted,0,20,Associate,"Jones, Collins and Clark",,2023-04-22
+9,76,Debra Aguirre,Rejected,0,15,Bachelor,Jordan-Jones,,2023-11-06
+10,7,Ashley Weaver,Shortlisted,0,11,High School,Anderson Group,,2022-07-11
+11,85,Dr. Sean Smith,Shortlisted,0,1,High School,Lopez-Castaneda,,2023-03-30
+12,44,Joseph Lewis,Rejected,0,16,PhD,Gonzalez PLC,Culture,2023-04-18
+13,27,Stephanie Hernandez,Shortlisted,0,3,Master,Banks Ltd,,2023-07-12
+14,91,Maria Wall,Shortlisted,0,8,Bachelor,"Garrison, Medina and Rodriguez",,2023-12-07
+15,49,Juan Hill,Rejected,0,7,PhD,Miles Ltd,Technical,2023-04-23
+16,10,Victoria Nguyen,Processed,0,4,Master,Watson and Sons,,2022-09-16
+17,58,Allison Moore,Rejected,0,6,Associate,Sosa Inc,Culture,2023-12-12
+18,52,Dr. Carol Brown MD,Accepted,15656962,5,Master,Oliver Group,,2022-07-20
+19,2,Monica Nichols,Accepted,19908576,12,Master,Shepherd-Hunter,,2023-09-26
+20,49,Nicole Briggs,Accepted,18442500,1,Associate,Jones Inc,,2023-08-06
+21,69,Krista Wilson,Processed,0,3,PhD,Roberts-Matthews,,2023-04-18
+22,27,Laura Johnson,Rejected,0,13,Bachelor,Marshall-Hale,Technical,2022-08-26
+23,33,Charles Morris,Shortlisted,0,6,High School,Oconnor-Vaughan,,2022-04-19
+24,60,Brandon Wallace,Rejected,0,10,Bachelor,Smith Inc,Technical,2023-02-10
+25,28,Amanda Reid,Rejected,0,10,Master,"Knight, Bean and Smith",Salary,2023-01-18
+26,8,Jessica Oconnell,Accepted,14446081,17,Bachelor,Garcia PLC,,2023-06-15
+27,2,Joseph Davis,Rejected,0,12,Bachelor,"Anderson, Mccoy and Simpson",Technical,2023-10-10
+28,90,Jose Wise,Rejected,0,19,Master,Oliver and Sons,Technical,2023-02-11
+29,56,Abigail Mora,Processed,0,17,High School,Ward-King,,2022-08-03
+30,77,Jeremy Hurley,Accepted,17205303,20,Bachelor,Khan PLC,,2022-09-07
+31,30,Robert Garner,Accepted,12513635,2,PhD,Levine-Barton,,2023-03-27
+32,9,Cheryl Lewis,Rejected,0,13,PhD,"Oconnor, Reid and Tucker",,2022-12-09
+33,40,Debbie Barrett,Shortlisted,0,5,Bachelor,"Saunders, Berry and Moore",,2023-01-23
+34,2,Damon Frederick,Shortlisted,0,18,High School,Lynch-Hurley,,2022-09-08
+35,92,Natalie Miller,Rejected,0,2,Associate,"Watkins, Allison and Medina",Culture,2022-07-28
+36,93,Mercedes Martin,Rejected,0,12,High School,"Jones, Lee and Smith",Culture,2022-08-06
+37,29,Stephen Rodriguez,Accepted,10115569,7,PhD,Bass PLC,,2023-12-06
+38,7,Arthur Smith,Shortlisted,0,13,PhD,"Wolfe, Berry and Morris",,2023-10-25
+39,86,Timothy Barrett,Accepted,17083255,1,Associate,"Flynn, Watson and Kelly",,2022-04-29
+40,11,Todd Johns,Accepted,14886709,13,PhD,"Blackwell, Rice and Bond",,2022-02-13
+41,35,Susan Oliver,Processed,0,10,High School,"Webb, Hodges and Walton",,2022-08-13
+42,23,Rita Mathews,Shortlisted,0,8,Master,Diaz and Sons,,2023-12-10
+43,56,Erin Hampton,Shortlisted,0,14,PhD,Rogers-Harris,,2023-08-24
+44,75,Corey Tate,Rejected,0,16,Master,Daniels-Brady,,2023-01-31
+45,3,Frank Decker,Accepted,6859573,5,High School,Mcdonald-Hancock,,2022-08-31
+46,20,Maria Green,Shortlisted,0,9,Master,Schultz Inc,,2022-05-03
+47,30,Jill Moore,Accepted,15800787,16,Bachelor,Myers-Gonzalez,,2022-04-26
+48,9,Cameron Dunlap,Processed,0,5,Associate,Graham PLC,,2023-07-04
+49,26,Stephanie Ellis,Processed,0,6,Master,Gardner-Duran,,2022-09-11
+50,30,Michelle Nelson,Shortlisted,0,7,Associate,Smith Ltd,,2022-04-20
+51,62,Jennifer Bright,Accepted,11218282,19,Bachelor,Potts-Cruz,,2023-10-10
+52,13,Renee Barr,Processed,0,20,PhD,Andrews PLC,,2022-01-26
+53,4,David Perez,Accepted,15837577,12,High School,"Mueller, Kemp and Cook",,2022-11-01
+54,86,Dr. Kelly Thomas,Rejected,0,5,Bachelor,Mann PLC,,2023-06-23
+55,93,Elizabeth Murphy,Rejected,0,8,Associate,Cobb Inc,Technical,2022-05-27
+56,37,Marc Mccullough,Accepted,7768724,13,Bachelor,Duran Ltd,,2022-11-23
+57,28,Preston Walker,Rejected,0,10,Associate,Hess Ltd,Culture,2023-01-09
+58,10,Kimberly Sandoval,Rejected,0,15,Associate,Parsons and Sons,Salary,2023-11-30
+59,36,Alicia Lopez,Rejected,0,4,Master,Carter-Hunt,Salary,2023-03-27
+60,32,Tracy Keith,Shortlisted,0,20,High School,Cole Group,,2023-07-16
+61,58,Robert Nguyen,Accepted,17822702,6,Bachelor,"Chang, Ortiz and Brown",,2022-02-17
+62,48,Christina Smith,Rejected,0,4,PhD,Johnson Inc,Salary,2022-02-13
+63,4,Jennifer Vasquez,Accepted,11442726,3,Associate,Hester-Potts,,2023-11-28
+64,16,Rebecca Herrera,Rejected,0,9,High School,Robertson Inc,Technical,2023-07-10
+65,52,Vanessa Wallace,Shortlisted,0,8,Associate,Harris LLC,,2022-01-27
+66,35,Michael Scott,Accepted,17839078,3,PhD,Frederick Inc,,2023-08-01
+67,13,Kimberly Wilson,Accepted,8588418,12,High School,Wright PLC,,2022-05-09
+68,5,Janet Rivas,Accepted,13808947,4,Master,"Jones, Page and Allen",,2022-02-07
+69,63,Megan Gomez,Shortlisted,0,7,PhD,Flores and Sons,,2022-02-18
+70,24,Anthony Smith,Accepted,19444147,14,Associate,Martinez Group,,2022-04-09
+71,79,Robert Rodriguez,Accepted,12726804,13,Master,Hernandez Ltd,,2023-02-01
+72,23,Manuel Davis,Shortlisted,0,19,Master,"Sanders, Washington and Jackson",,2023-06-24
+73,32,Denise Walter,Processed,0,14,Master,"Robinson, Jackson and Boyd",,2023-02-23
+74,69,Edwin Browning,Accepted,11602860,11,PhD,"Taylor, Schneider and Mckenzie",,2022-12-29
+75,8,Kevin Copeland,Accepted,5382110,15,Master,Higgins-Cardenas,,2023-11-26
+76,40,Nicholas Landry,Accepted,12394604,3,PhD,"Clarke, Tran and Myers",,2022-02-21
+77,31,Elizabeth Lopez,Rejected,0,10,Bachelor,Mcconnell-Knight,Culture,2022-08-26
+78,80,Alexander Sullivan,Shortlisted,0,10,High School,"Marshall, Benson and Brown",,2022-07-06
+79,8,Melissa Kirby,Shortlisted,0,2,PhD,Jones Ltd,,2022-05-23
+80,70,Mark Wallace,Processed,0,11,Bachelor,Pierce-White,,2023-05-21
+81,80,Phillip Ortiz,Rejected,0,7,Bachelor,Williams and Sons,Technical,2022-09-27
+82,60,Allison Lopez DVM,Shortlisted,0,5,Master,Bailey-Smith,,2023-07-06
+83,37,Dr. Christopher Daniel,Accepted,9620459,0,Master,Bullock Inc,,2023-06-04
+84,100,Mitchell Huffman,Rejected,0,7,Master,"Hernandez, Wheeler and Garcia",,2023-09-30
+85,44,Julie Cook,Rejected,0,14,High School,Phillips Inc,,2022-03-06
+86,77,Melanie Shelton,Shortlisted,0,6,Bachelor,Sims Inc,,2023-05-27
+87,77,Lisa Phillips,Rejected,0,0,PhD,Johnson Ltd,Salary,2022-06-30
+88,33,Kimberly Newman,Rejected,0,11,Master,Johnson Ltd,,2023-04-01
+89,73,April Lewis,Shortlisted,0,3,Bachelor,Solomon-Michael,,2023-12-15
+90,61,Marissa Moore,Rejected,0,3,High School,"Cunningham, Williams and Perez",Salary,2023-01-05
+91,15,Tyler Scott,Accepted,9060559,5,Associate,Clay-Glover,,2022-08-10
+92,40,Brandon Martinez,Rejected,0,4,High School,Sanchez and Sons,,2023-01-16
+93,75,Guy Jackson,Rejected,0,4,PhD,Wilson-Allen,,2023-12-29
+94,71,Dennis Wagner,Rejected,0,8,Master,Hickman Group,Culture,2022-12-25
+95,22,Andres Brown,Processed,0,12,Associate,Garcia LLC,,2022-09-29
+96,5,Jennifer Brown,Processed,0,4,High School,Hale Inc,,2023-06-03
+97,67,Ryan Brown,Shortlisted,0,1,Bachelor,Forbes and Sons,,2022-08-14
+98,69,Richard Reeves,Accepted,7242733,14,PhD,"Fuller, Lynch and Glenn",,2023-03-07
+99,42,Carl Larsen,Shortlisted,0,20,High School,"Castro, Allison and Contreras",,2022-04-22
+100,98,Amanda Vaughn,Shortlisted,0,17,High School,Bennett-Rosales,,2022-12-30
+101,62,Jennifer Jones,Accepted,13080082,7,Bachelor,Cervantes-Alvarez,,2023-01-14
+102,60,Lynn Larson,Processed,0,2,Bachelor,Pearson-Obrien,,2022-12-15
+103,38,Joseph Bryant,Shortlisted,0,7,Bachelor,Mccann Inc,,2022-11-03
+104,82,Lance Valenzuela,Processed,0,19,High School,Nelson-Moore,,2022-01-11
+105,87,Dr. Shannon Evans,Rejected,0,18,Master,"Allen, Gonzalez and Mcguire",Culture,2023-08-26
+106,92,Pamela Edwards,Processed,0,7,PhD,Jones Group,,2022-10-31
+107,59,Amanda Pacheco,Rejected,0,11,Associate,Sawyer Group,Culture,2023-06-12
+108,57,Adam Richardson,Accepted,17171878,19,Associate,White-Bolton,,2023-04-15
+109,72,Deborah White,Processed,0,3,PhD,Morrison Group,,2022-01-06
+110,90,Christopher Mcpherson,Shortlisted,0,7,PhD,Garcia-Campbell,,2023-02-24
+111,49,Jessica Walker,Shortlisted,0,12,Associate,"French, Perry and Hutchinson",,2022-07-18
+112,12,Tonya Bennett,Processed,0,10,Associate,"Hensley, Parks and Cox",,2023-06-17
+113,8,Shawn Hansen,Rejected,0,20,Master,Long-Rush,Salary,2022-12-22
+114,49,Spencer Gates,Accepted,9828273,9,High School,Kim-Evans,,2022-08-23
+115,96,Daniel Thompson,Processed,0,2,High School,"Bell, Schmidt and Reynolds",,2022-09-28
+116,57,Kristine Johnson,Rejected,0,15,Associate,Adams LLC,Culture,2023-10-11
+117,71,Malik Mcbride,Accepted,13783266,13,High School,"Hawkins, Smith and Butler",,2023-07-17
+118,28,John Watkins,Processed,0,9,Associate,Johnson-Jones,,2023-12-29
+119,47,Kimberly Conley,Shortlisted,0,19,Associate,Luna-Carter,,2023-10-26
+120,94,Michael Olson,Processed,0,11,High School,Blair and Sons,,2023-03-13
+121,88,Lauren Ramirez,Processed,0,9,Associate,Webb LLC,,2023-04-09
+122,38,Tracey Walton,Rejected,0,11,Bachelor,Cook-Beard,Salary,2022-10-28
+123,10,Joseph White,Shortlisted,0,7,PhD,Kelley-Porter,,2022-12-17
+124,71,Gina Tran,Rejected,0,11,Master,Bowen-Bridges,Technical,2023-03-03
+125,31,Beverly Brooks,Processed,0,14,High School,Ramirez Inc,,2022-09-21
+126,82,Barbara Dean,Accepted,8289535,12,Associate,Powell-Mcdaniel,,2022-07-04
+127,68,Kathy Gonzalez,Rejected,0,13,PhD,Miller Group,Technical,2023-06-18
+128,63,Kendra Sawyer,Shortlisted,0,0,High School,Lopez Group,,2022-04-25
+129,89,Carrie Smith,Rejected,0,4,High School,"Lee, Brown and Perry",Salary,2022-04-21
+130,29,Jason Franco,Shortlisted,0,12,Associate,Valentine and Sons,,2023-11-03
+131,86,George Turner,Shortlisted,0,19,Associate,Benton-Pope,,2023-08-26
+132,24,William Wells,Accepted,8697300,20,High School,"Smith, Hernandez and Robinson",,2023-05-27
+133,2,Richard Adams,Processed,0,15,PhD,Owens-Wagner,,2022-07-29
+134,78,Tony Nixon,Shortlisted,0,19,Master,Bennett-Hayes,,2022-08-29
+135,26,Ashley Erickson,Rejected,0,3,High School,Saunders PLC,Technical,2023-07-22
+136,58,Christopher Cunningham,Accepted,10325124,3,PhD,Adams-Martin,,2022-11-29
+137,96,Maria Ellis DVM,Rejected,0,20,PhD,"Cummings, Wallace and Moon",,2022-07-26
+138,85,Alyssa Carter,Shortlisted,0,18,Bachelor,"Clayton, Hicks and Orozco",,2023-02-24
+139,40,Rachel Anderson,Processed,0,0,Master,Ellis Inc,,2022-02-08
+140,9,Rebecca Black,Accepted,15151512,0,Master,Brown-Ellis,,2022-04-13
+141,33,Caitlin Mcclure,Accepted,14122139,4,PhD,Bowers and Sons,,2022-09-04
+142,96,Matthew Wilson,Accepted,16731106,1,Master,Perez-Watson,,2023-03-18
+143,99,Margaret Dunn,Processed,0,8,Bachelor,Martin and Sons,,2023-03-03
+144,81,Melanie Perez,Processed,0,4,PhD,Cain-Smith,,2023-06-17
+145,47,Louis Davis,Accepted,17575497,5,Master,Wang-Nelson,,2023-08-07
+146,7,Jacqueline Rodriguez,Processed,0,14,Associate,"Gregory, Espinoza and Pearson",,2022-09-20
+147,29,Kyle Mcdonald,Shortlisted,0,16,Bachelor,Williams-Thomas,,2022-04-01
+148,56,Katelyn Richard,Accepted,12324289,9,High School,"Roman, Marquez and Baxter",,2023-01-25
+149,30,Caitlin Smith,Accepted,14811934,11,High School,"Sanchez, Meyer and Harris",,2023-09-12
+150,40,Yolanda Juarez,Accepted,16939609,20,Bachelor,"Love, Smith and Hudson",,2022-12-11
+151,30,Pamela Hunter,Rejected,0,11,Associate,Hughes PLC,Culture,2023-11-13
+152,97,Richard Wiggins,Rejected,0,0,High School,Dixon PLC,Culture,2023-01-12
+153,16,Michael Andrews,Accepted,16576559,11,Bachelor,"James, Kramer and Rhodes",,2023-03-18
+154,37,Kimberly Turner,Accepted,10583849,1,High School,Stevens-Fox,,2023-11-27
+155,64,Shelby Smith,Processed,0,1,Associate,Nichols PLC,,2023-02-26
+156,56,Martha Williams,Shortlisted,0,20,Master,"Allen, Rogers and Floyd",,2022-06-06
+157,86,Richard Johnson,Shortlisted,0,11,Associate,Lee-Curry,,2023-12-04
+158,11,Catherine Castillo,Processed,0,12,Associate,"Kemp, Day and Porter",,2023-08-28
+159,83,Anthony Johnson,Processed,0,14,Master,Gross Group,,2022-02-23
+160,12,Christopher Fuentes,Rejected,0,8,High School,Dalton-Baker,Culture,2022-11-13
+161,24,Scott Morse,Processed,0,9,Associate,Miranda-Marshall,,2023-06-23
+162,81,Don Levine,Rejected,0,15,Associate,Paul-Hunt,Culture,2023-12-23
+163,47,Emily Carter,Accepted,5733795,10,High School,Baker and Sons,,2022-01-03
+164,73,Brandy Edwards,Accepted,13135709,3,PhD,Scott-Green,,2023-06-04
+165,62,Kristin Smith,Accepted,17102750,16,PhD,Robles-Porter,,2023-04-22
+166,16,Dana Cohen,Rejected,0,20,Bachelor,Stewart-Hill,Salary,2023-11-13
+167,61,Renee Kirk,Rejected,0,16,High School,Perez Inc,,2023-10-16
+168,100,Tina Miller,Processed,0,14,Master,Ferguson Inc,,2022-08-03
+169,85,Rhonda Jones,Rejected,0,20,PhD,"Shelton, Henson and Baird",Salary,2023-08-13
+170,88,Phillip Gentry,Rejected,0,8,Associate,Holt PLC,Technical,2023-08-15
+171,17,Jesse Watson,Accepted,17560343,3,Bachelor,"Alvarez, Smith and Gregory",,2023-08-30
+172,9,Brandon Villarreal,Accepted,13030075,12,Master,Fisher-Lee,,2022-07-31
+173,55,Brian Howard,Accepted,18620217,0,Bachelor,"Guerrero, Ortiz and Avila",,2022-01-26
+174,37,Charles Bartlett,Processed,0,19,PhD,"Nguyen, Smith and Harrell",,2022-09-22
+175,3,Vanessa Padilla,Accepted,8185054,11,Associate,Savage PLC,,2023-10-16
+176,52,Thomas Durham,Processed,0,11,Associate,Rodriguez-Price,,2023-12-29
+177,20,George Patterson,Processed,0,19,Associate,Scott-Coleman,,2022-05-06
+178,67,Michele Charles,Shortlisted,0,12,Master,"Fischer, Gibson and Mendoza",,2023-08-27
+179,55,Andrew Guerrero,Rejected,0,11,PhD,"Sanchez, Hammond and Wheeler",Technical,2023-02-02
+180,40,Lisa Rowe,Accepted,13854198,14,High School,"Cole, Edwards and Stephens",,2022-02-01
+181,98,Jason Long,Shortlisted,0,9,Master,Smith PLC,,2022-08-17
+182,16,Lori Vasquez,Processed,0,1,High School,Barnes LLC,,2023-09-11
+183,29,Anthony Holmes,Rejected,0,14,Bachelor,Patton-Flores,Technical,2022-08-20
+184,60,Katherine Bennett,Shortlisted,0,1,High School,Lewis-Gregory,,2023-10-05
+185,22,Dr. Patrick Patterson DDS,Shortlisted,0,20,High School,Powell-David,,2023-07-13
+186,65,Michael Berg,Rejected,0,17,PhD,Ferguson-Murray,Culture,2023-06-24
+187,45,Elizabeth Mcgee,Rejected,0,10,Bachelor,Miller-Simpson,,2022-11-09
+188,3,Sherry Powers DDS,Shortlisted,0,15,Master,"Clayton, Turner and Snow",,2022-04-12
+189,24,Kelly Davis,Rejected,0,11,PhD,Grimes PLC,Culture,2023-08-24
+190,8,Dustin Robinson,Shortlisted,0,13,PhD,Carlson-Cook,,2023-04-23
+191,9,Dominic Russell,Processed,0,3,PhD,Hernandez Ltd,,2022-04-15
+192,74,Shannon Lamb,Shortlisted,0,14,Master,Taylor-Spencer,,2022-08-20
+193,73,Billy Fernandez,Accepted,15986457,6,High School,Parker Group,,2023-12-10
+194,90,William Barker,Processed,0,8,PhD,Preston-Arroyo,,2022-07-18
+195,26,Tonya Castillo,Rejected,0,19,High School,Mcguire-Turner,Culture,2022-09-30
+196,62,Latoya Miller,Processed,0,9,PhD,Simpson Inc,,2023-03-20
+197,59,Nicholas White,Rejected,0,4,Associate,Martin Group,Salary,2022-05-19
+198,37,Jennifer Miller,Shortlisted,0,11,Bachelor,King Group,,2022-08-04
+199,33,Kathleen Hart,Processed,0,4,High School,Williams-Erickson,,2022-10-17
+200,38,Natalie Little,Shortlisted,0,0,Bachelor,"Young, Williams and Pearson",,2022-01-11
+201,21,Virginia Jones DVM,Processed,0,11,Associate,Marshall-Vazquez,,2023-04-30
+202,91,Lindsay Mendez,Accepted,19059854,17,High School,Macias-Johnson,,2023-09-11
+203,87,Nicole Perkins,Shortlisted,0,16,Bachelor,Erickson Inc,,2022-10-14
+204,9,Dennis Martinez,Rejected,0,14,High School,Avila-Guzman,Technical,2022-06-06
+205,48,Anita Flowers,Rejected,0,6,PhD,"Gross, Martin and Price",Salary,2022-04-01
+206,75,Leah Johnson,Processed,0,11,High School,Roberts and Sons,,2022-09-28
+207,53,Douglas Wilcox,Accepted,15939092,7,Master,"Weber, Russo and Lewis",,2023-05-23
+208,82,Timothy Jacobson,Accepted,15104350,8,PhD,Ewing-Hill,,2023-06-09
+209,19,Patricia Bruce,Accepted,15130066,6,Bachelor,"Martin, West and Malone",,2023-05-28
+210,2,Daniel Rodriguez,Shortlisted,0,4,Master,Sexton and Sons,,2023-12-20
+211,8,Michael Lester,Accepted,8504124,13,PhD,"Brooks, Morgan and Greene",,2022-08-09
+212,29,Julie Wise,Processed,0,1,Master,"Walker, Sparks and Williams",,2023-08-31
+213,92,Nathan Hall,Accepted,5624961,4,Associate,"Anderson, Johnson and Mccarthy",,2022-03-05
+214,1,Richard Herring,Processed,0,18,Master,Jefferson and Sons,,2023-03-08
+215,81,Ashley Ferguson,Processed,0,19,Bachelor,Anderson Group,,2023-09-29
+216,52,Sarah Peters,Rejected,0,0,Bachelor,Moreno-Hansen,,2023-04-19
+217,90,Sharon Bartlett,Shortlisted,0,16,Associate,Martinez-Lewis,,2022-06-24
+218,30,Chelsea Thomas DDS,Shortlisted,0,18,PhD,Ward-Leon,,2023-01-05
+219,41,Gregory Ramos,Rejected,0,20,PhD,"Simpson, Elliott and Mendez",Salary,2023-02-07
+220,27,Anna Parker,Processed,0,17,Bachelor,"Johnson, Hamilton and Dunn",,2023-07-08
+221,26,Sarah Snow,Shortlisted,0,2,High School,Perez Inc,,2022-10-05
+222,21,Kelsey Morgan,Shortlisted,0,17,Associate,Brown LLC,,2023-08-09
+223,1,Erica Ferguson,Shortlisted,0,11,Bachelor,Brewer Group,,2023-09-07
+224,75,Thomas Marshall MD,Accepted,12023702,17,Master,"Robinson, Boyd and Mccoy",,2022-08-08
+225,93,Alice Barton,Shortlisted,0,16,Bachelor,"Green, Munoz and Jackson",,2022-07-10
+226,83,Michael Mcdonald,Rejected,0,15,Associate,"Lee, Bishop and Schroeder",Technical,2022-01-02
+227,70,Billy Bell,Rejected,0,16,Bachelor,Reed PLC,,2023-09-18
+228,39,Dylan Wagner,Processed,0,13,Master,Bray and Sons,,2023-08-19
+229,99,Joshua Lewis,Processed,0,1,Master,Villarreal-Williams,,2022-08-05
+230,10,Kenneth Cook,Processed,0,1,Master,"Kim, Burton and Walsh",,2022-10-04
+231,35,Julie Owen,Rejected,0,8,Master,Berry-Davis,Technical,2023-03-25
+232,90,Lucas Cox,Rejected,0,13,Bachelor,"Jackson, Castro and Flores",Culture,2022-03-28
+233,38,Christopher Mitchell,Accepted,14812665,15,Associate,Brown PLC,,2022-10-06
+234,15,Thomas Anderson,Shortlisted,0,13,Associate,Gibson-Lopez,,2022-09-02
+235,11,Kyle Acevedo,Accepted,19964566,16,High School,Bartlett-Deleon,,2022-04-26
+236,97,Crystal Graves,Accepted,15273137,0,Associate,Melton Inc,,2023-12-25
+237,99,Anita Vasquez MD,Processed,0,1,PhD,"Smith, Rodriguez and Pittman",,2022-08-19
+238,88,Maria Morgan,Rejected,0,11,Associate,"Hunt, Matthews and Christensen",,2022-01-23
+239,13,Kevin Taylor,Rejected,0,15,Associate,Allen and Sons,Culture,2022-05-07
+240,20,Jennifer Johnson,Processed,0,10,Bachelor,Wong PLC,,2023-12-26
+241,49,Sherry Davis,Shortlisted,0,18,High School,Davis PLC,,2022-03-11
+242,54,Micheal Ruiz,Shortlisted,0,2,Associate,Woods-Thompson,,2022-02-03
+243,36,Stephen Alexander,Accepted,13144664,6,Associate,Kaiser Inc,,2022-05-28
+244,9,Linda Conrad,Processed,0,5,High School,Rogers-Maxwell,,2023-07-15
+245,6,Brooke Guerra,Rejected,0,11,PhD,"Duncan, Carroll and Green",,2023-01-19
+246,23,Tyler Morales,Accepted,10362219,19,Master,"Johnson, Smith and Booker",,2022-04-20
+247,41,Kara Wagner,Accepted,10224857,11,Master,Lewis-Levy,,2022-03-03
+248,12,Erin Long,Shortlisted,0,15,Master,Figueroa-Murphy,,2022-12-20
+249,36,Stephanie Jackson,Shortlisted,0,4,Associate,Woods Inc,,2023-11-01
+250,50,Russell Ellison,Shortlisted,0,15,Bachelor,Lamb PLC,,2022-05-06
+251,61,Wanda Nguyen,Processed,0,11,PhD,"Henson, Jacobs and Taylor",,2022-11-08
+252,32,Jacob Mccormick,Rejected,0,3,High School,Ashley PLC,Culture,2023-02-28
+253,76,Kenneth Moss,Accepted,6693327,13,Associate,Morrison Inc,,2022-10-25
+254,80,Joseph Fuller,Accepted,17709231,9,PhD,Martin-Johnson,,2022-11-13
+255,99,Tammy Davis,Processed,0,13,Associate,Thompson-Chavez,,2022-11-14
+256,1,Amy Peterson,Accepted,17378512,15,Bachelor,Moore-Bowman,,2023-05-22
+257,52,Richard Aguilar,Accepted,14587760,18,Master,Robinson Group,,2022-03-29
+258,39,Edwin Kim,Shortlisted,0,2,Master,"Jones, Warren and Riley",,2022-02-10
+259,10,Kimberly Cooper,Rejected,0,2,Bachelor,Ferguson PLC,Culture,2022-03-18
+260,67,Norma Thompson,Processed,0,13,Master,"Williams, Ray and Walters",,2023-10-24
+261,93,Alexis Diaz,Shortlisted,0,2,Master,Walker-Ware,,2022-09-15
+262,62,Eric Clarke,Processed,0,4,PhD,Thomas-Day,,2022-03-30
+263,80,Cynthia Ramirez,Rejected,0,12,Associate,"Vasquez, Thompson and Marks",Salary,2023-08-27
+264,46,Michelle Alexander,Shortlisted,0,11,Associate,Russell-Taylor,,2022-11-26
+265,99,Christine Turner,Processed,0,9,Associate,Rosario PLC,,2023-04-30
+266,73,Jessica Jones,Rejected,0,3,High School,Dean and Sons,,2023-08-10
+267,71,Brian Brown,Shortlisted,0,7,Bachelor,"Pruitt, Cook and Figueroa",,2023-03-11
+268,52,Felicia Koch,Processed,0,5,Associate,"Jennings, White and Odom",,2023-06-02
+269,5,Jean Kennedy,Processed,0,1,High School,Jones PLC,,2022-10-08
+270,27,Andrew Peterson,Processed,0,7,Bachelor,Wilson Group,,2022-11-05
+271,2,Vickie Roberts,Accepted,15684763,5,High School,Martinez Inc,,2023-06-04
+272,7,Benjamin Brown,Accepted,7437697,8,High School,"Ward, Cline and Velasquez",,2022-03-10
+273,3,Stacy Cuevas,Accepted,19974602,4,Bachelor,"Bowman, Moore and Johnson",,2023-12-03
+274,14,Andrew Holmes,Shortlisted,0,19,PhD,Lucas PLC,,2023-04-14
+275,87,Nicholas White,Rejected,0,5,PhD,"Wright, Brooks and Johnson",Salary,2022-04-19
+276,92,Daniel Gay,Processed,0,1,PhD,Walter Inc,,2022-03-04
+277,100,William Yu,Rejected,0,6,Associate,"Kim, Klein and Lee",Culture,2023-05-17
+278,61,Monica Wu,Processed,0,14,Associate,"Mercado, Davidson and Mitchell",,2023-10-30
+279,38,Sean Fowler,Processed,0,9,Master,"Hardin, Hall and Harris",,2022-09-25
+280,22,Robert Schwartz,Processed,0,20,Associate,"Edwards, Kennedy and Walker",,2023-07-31
+281,2,Lindsey Smith,Accepted,6480345,19,Master,"Moyer, Grant and Scott",,2023-10-05
+282,11,Jennifer Reilly,Processed,0,20,Bachelor,Griffin-Preston,,2023-07-02
+283,27,Karen Johnson,Shortlisted,0,6,Master,Pena-Perry,,2023-03-29
+284,46,Tiffany Stanton,Accepted,8404993,20,Associate,"Moore, Gonzales and Rose",,2022-05-28
+285,36,Thomas Mitchell,Rejected,0,4,Master,Myers and Sons,Culture,2022-07-06
+286,33,Monique Gordon,Rejected,0,4,Associate,Martin Group,Culture,2023-10-09
+287,10,Chad Berger,Shortlisted,0,4,Master,"Brown, Ford and Johnson",,2023-05-18
+288,31,Kimberly Young,Rejected,0,8,Associate,Gomez Ltd,Technical,2023-02-12
+289,16,Ryan Moss,Rejected,0,7,Master,"Mueller, Novak and Hines",Culture,2022-03-19
+290,71,Michael Bolton,Accepted,10449561,14,Bachelor,"Duffy, Johnson and Santiago",,2022-03-11
+291,69,Kristin Barnett,Processed,0,14,Associate,Evans-Cobb,,2023-03-03
+292,12,Lisa Allison,Rejected,0,7,PhD,Myers LLC,,2022-06-09
+293,80,David Roberts,Shortlisted,0,4,High School,"Henderson, Hernandez and King",,2023-12-13
+294,2,Matthew Rodriguez,Rejected,0,20,Master,"Moore, Thomas and Jones",Culture,2022-07-25
+295,31,Gilbert Willis,Shortlisted,0,7,PhD,Cox-Long,,2022-02-26
+296,72,Lauren Edwards,Rejected,0,19,High School,"Cunningham, Ross and Hardy",Technical,2022-08-14
+297,74,Tamara Paul,Rejected,0,6,PhD,Robinson-Anderson,Culture,2022-02-21
+298,76,Shannon Hudson,Shortlisted,0,8,Associate,"Burke, Atkins and Ward",,2022-01-01
+299,8,David Stewart,Shortlisted,0,17,Master,Bolton-Gates,,2023-12-04
+300,7,Matthew Lloyd,Rejected,0,4,Master,Sims-Hill,Salary,2022-11-05
+301,21,Kelsey Bennett,Processed,0,10,Associate,Ramirez-Edwards,,2023-01-17
+302,63,James Harris,Shortlisted,0,0,Associate,Reyes-Flores,,2023-09-08
+303,29,Perry Griffin,Processed,0,16,Master,Vargas-Perez,,2023-06-02
+304,62,James Long,Shortlisted,0,1,High School,White-Guzman,,2023-08-11
+305,60,Richard Nunez,Rejected,0,1,Bachelor,"Beasley, Nichols and Martin",,2023-08-02
+306,92,Joshua Turner,Processed,0,7,Master,"Johnson, Ward and Walters",,2023-07-04
+307,29,Michael Archer,Accepted,6027529,12,High School,Collins and Sons,,2023-04-30
+308,67,James Bell,Shortlisted,0,20,Master,Nicholson-Rose,,2022-01-03
+309,44,Taylor Hood,Processed,0,18,Master,Thompson Group,,2022-06-19
+310,4,Michelle Miller,Shortlisted,0,6,Master,Thompson-Hernandez,,2023-02-02
+311,29,Amber Hall,Accepted,13133664,16,Bachelor,"Adams, Bean and Moon",,2023-04-02
+312,94,Misty Singleton,Rejected,0,17,Bachelor,Joseph-Garcia,Culture,2023-05-14
+313,100,Tammy Harrison,Processed,0,9,High School,"Ellis, Brown and Jackson",,2023-05-25
+314,57,Kristi Burns,Rejected,0,4,High School,Luna LLC,,2022-12-21
+315,65,Nancy Baxter,Accepted,19728610,1,Master,Patterson Ltd,,2022-04-21
+316,39,Laura Lopez,Accepted,14858369,3,Master,Chaney-Lynn,,2023-10-19
+317,88,Patricia Robinson,Accepted,13002924,9,PhD,Guzman-Henry,,2023-01-16
+318,90,Maria Vargas,Processed,0,8,High School,Morales-Wallace,,2022-02-12
+319,54,April Thompson,Shortlisted,0,15,PhD,Fox Ltd,,2023-12-30
+320,74,Andrew Atkinson,Rejected,0,13,Master,"Brown, Harvey and Perez",Technical,2022-09-17
+321,37,John Williams,Shortlisted,0,17,Associate,"Russo, Miller and Morgan",,2023-03-14
+322,31,Nathan Bradley,Processed,0,5,Master,Howard-Norris,,2023-03-09
+323,67,Stephanie Scott,Accepted,12283497,15,PhD,"Walker, Bautista and Burgess",,2022-01-23
+324,74,Christopher Bailey,Shortlisted,0,11,PhD,Mccall PLC,,2022-03-29
+325,8,Penny Berry,Accepted,6181517,11,Bachelor,Higgins Ltd,,2022-12-07
+326,73,Daniel Wright,Shortlisted,0,6,Associate,Hicks-West,,2023-03-06
+327,74,Jenny Cole,Rejected,0,11,Master,Carpenter-Hester,Culture,2022-10-24
+328,28,Lisa Baker,Processed,0,15,Bachelor,"Johnson, Gonzalez and Mendoza",,2022-01-06
+329,73,Travis Mcmillan DVM,Rejected,0,8,PhD,Schroeder-Garcia,Technical,2023-09-23
+330,90,Kent Lewis,Shortlisted,0,4,Associate,"Mcfarland, Gonzales and Atkinson",,2022-03-06
+331,23,Thomas Turner,Accepted,8511019,9,Associate,"Blake, Ramos and Mitchell",,2023-06-19
+332,41,Vicki Gardner,Rejected,0,20,Associate,Parker Group,Salary,2023-10-23
+333,80,Jessica Morris,Accepted,6904989,17,PhD,Phillips-Hull,,2023-06-27
+334,68,Victor Baker,Accepted,16876613,10,Associate,Wise-Anderson,,2022-02-08
+335,28,Julia Neal,Accepted,6437768,9,Associate,Carter and Sons,,2023-02-07
+336,9,Ronald Fuller,Accepted,15678288,1,Associate,"Henry, Flores and Garrett",,2022-01-04
+337,94,Antonio Sutton,Accepted,11179200,13,Associate,"Delgado, Glass and Martin",,2022-07-26
+338,64,Christopher Marks,Rejected,0,3,Associate,Smith-White,Technical,2022-11-30
+339,59,Kim Jones,Rejected,0,5,Associate,Lane-Leon,Salary,2023-05-01
+340,94,Crystal Todd,Rejected,0,16,PhD,Baxter Inc,Salary,2022-06-10
+341,62,Todd Bean,Rejected,0,0,PhD,Watkins Ltd,Technical,2023-05-04
+342,29,Brittney Walton,Processed,0,14,Master,"Morse, Warner and Lloyd",,2023-12-11
+343,87,Jennifer Lee,Rejected,0,14,Bachelor,Liu-Ross,Culture,2022-07-31
+344,62,Madeline Marshall,Shortlisted,0,11,PhD,Flowers and Sons,,2022-01-25
+345,66,Brandon Moody,Rejected,0,6,Associate,Richmond LLC,,2022-02-15
+346,91,Caitlyn Garcia,Accepted,17603978,12,High School,"Cook, Carpenter and Johnson",,2023-05-22
+347,15,Christopher Clarke,Rejected,0,17,Bachelor,"Johnson, Rivera and Mason",Technical,2022-06-04
+348,23,Richard Zhang,Shortlisted,0,13,PhD,Castillo-Hernandez,,2023-11-26
+349,71,Rachel Romero,Accepted,8937542,17,PhD,Warner LLC,,2023-02-28
+350,67,Calvin Soto,Shortlisted,0,12,Bachelor,Davis Group,,2023-05-13
+351,36,Ashley Williams,Shortlisted,0,12,Bachelor,Burns-Mendez,,2023-08-05
+352,64,Gabrielle Cooley,Rejected,0,6,High School,"Rivera, Marshall and Mendoza",Salary,2022-03-10
+353,91,Erica Patterson,Shortlisted,0,9,Master,Kidd-Knox,,2022-08-29
+354,95,James Greene,Shortlisted,0,18,Associate,"Thomas, Brown and Martin",,2023-08-08
+355,56,Levi Lynch,Accepted,15539443,1,PhD,Dunn-Bernard,,2022-01-15
+356,8,Joanne Wood,Accepted,18987498,9,Associate,Watson Group,,2023-05-01
+357,66,Michele Davis,Rejected,0,10,Associate,Gordon-Castillo,Technical,2022-10-31
+358,82,Aaron Bailey,Processed,0,15,High School,Russell-Kelly,,2022-11-24
+359,77,Danielle Spencer,Accepted,8805484,11,PhD,Pugh-Banks,,2023-10-20
+360,5,Rhonda Miller,Shortlisted,0,2,Bachelor,Gardner-Henderson,,2023-07-21
+361,1,Laura Ortega,Shortlisted,0,4,High School,Dawson-Lawson,,2022-04-21
+362,78,Michael Morales,Processed,0,10,Bachelor,"Carter, Sampson and Morris",,2023-07-06
+363,56,Lisa Brown,Processed,0,0,Associate,Carroll-Richmond,,2022-02-23
+364,91,Valerie Smith,Shortlisted,0,16,PhD,"Oconnor, Leonard and Russo",,2023-04-14
+365,80,Kylie Mendoza,Rejected,0,5,Bachelor,"Brewer, Harvey and Howard",Technical,2022-10-09
+366,96,Patricia Moore,Processed,0,12,Associate,"Smith, Sheppard and Burke",,2023-01-29
+367,43,Shelby West,Accepted,6382701,9,PhD,Bush Ltd,,2022-06-29
+368,90,Brittany Tanner,Accepted,12274935,2,PhD,"Murray, Park and Paul",,2022-01-22
+369,30,Barbara Davenport,Shortlisted,0,14,Master,"Wallace, Hobbs and Brown",,2023-11-20
+370,20,Michael Williams,Rejected,0,6,Master,Knapp Group,Culture,2023-05-23
+371,94,Heather Murphy,Rejected,0,2,High School,"Gonzalez, Wright and Nelson",Culture,2022-01-16
+372,22,Jennifer Griffith,Rejected,0,16,Master,"Henderson, Gray and Perez",Salary,2023-03-12
+373,61,Angel Wilson,Rejected,0,3,PhD,Bush Group,Salary,2023-04-04
+374,80,Joshua Kemp,Accepted,8563068,7,Associate,Haas Inc,,2023-04-21
+375,2,Kaitlyn Smith,Shortlisted,0,15,Bachelor,"Sandoval, King and Reeves",,2023-07-18
+376,69,Mario Klein,Shortlisted,0,1,PhD,Dudley Group,,2022-05-22
+377,47,Brianna Johnson,Processed,0,11,Master,Baker and Sons,,2022-11-20
+378,43,Alicia Richardson,Accepted,10897474,15,Bachelor,Perez LLC,,2022-05-30
+379,88,Carrie Sellers,Accepted,17171579,19,Associate,Morrison Group,,2023-01-03
+380,41,Alyssa Schmidt,Rejected,0,8,Associate,Smith-Morris,,2023-10-05
+381,66,Robert Mendez,Processed,0,14,Associate,Rowland-Weber,,2022-04-18
+382,76,Alec Davenport MD,Shortlisted,0,16,PhD,"Miller, Cannon and Garcia",,2022-02-26
+383,45,Rebecca Olson,Accepted,10995015,7,High School,Flores-Peters,,2023-01-30
+384,10,Brian Wright MD,Processed,0,4,High School,Armstrong-Butler,,2023-01-27
+385,72,Stephen Shields,Processed,0,10,PhD,Rasmussen-Franklin,,2023-07-07
+386,46,Carlos Lozano,Rejected,0,10,Master,Goodman Ltd,,2022-10-30
+387,90,Mark Hamilton Jr.,Processed,0,5,Bachelor,Acosta-Dunlap,,2023-05-04
+388,20,Jessica Steele,Accepted,8025914,2,Master,"Powell, Turner and Mcfarland",,2023-03-01
+389,54,Edward Edwards,Rejected,0,7,Bachelor,Wright Inc,Technical,2023-03-20
+390,46,Sheena Silva,Rejected,0,6,PhD,Johnson-Reed,Salary,2023-07-20
+391,10,James Robinson,Rejected,0,13,PhD,Norton LLC,,2022-04-04
+392,51,Kevin Perez,Rejected,0,19,Bachelor,Solis Ltd,,2022-08-01
+393,19,Curtis Sawyer,Accepted,5921837,11,Bachelor,Parsons PLC,,2023-02-13
+394,94,Hannah Ramos MD,Processed,0,10,High School,Cooper PLC,,2023-04-19
+395,60,Justin Holland,Processed,0,17,High School,Stuart Ltd,,2022-09-11
+396,85,Antonio Hernandez,Shortlisted,0,2,High School,Ross-Patrick,,2022-01-22
+397,7,Natasha Price,Processed,0,3,Bachelor,Ramirez-Schwartz,,2022-10-04
+398,7,Whitney Ward,Processed,0,4,High School,Valenzuela-Rich,,2022-12-08
+399,10,Patricia Jones,Shortlisted,0,20,PhD,Murphy-Boyd,,2023-05-07
+400,44,Jodi Rivera MD,Shortlisted,0,5,PhD,Horn-Foster,,2023-11-10
+401,77,Ashley Smith PhD,Processed,0,10,Associate,Johnson-Owens,,2023-06-14
+402,36,Whitney Torres,Rejected,0,19,Bachelor,Cain and Sons,,2022-11-04
+403,12,Alexis Yu,Rejected,0,14,Bachelor,"Davis, Davis and Garcia",Salary,2023-02-15
+404,33,Steven Blackwell,Shortlisted,0,9,High School,Williams and Sons,,2023-12-16
+405,17,Mark York,Rejected,0,8,High School,"Mueller, Hutchinson and Smith",,2023-06-24
+406,45,Erika Mcclure,Rejected,0,12,Bachelor,Lee Group,Culture,2023-03-14
+407,13,Jennifer Hobbs,Rejected,0,17,Associate,Lee Ltd,Salary,2022-02-19
+408,51,Gary Carter,Shortlisted,0,8,PhD,"Mendez, Greene and Fry",,2022-11-26
+409,28,John Beck,Shortlisted,0,19,Associate,Spencer-Mcbride,,2022-05-18
+410,8,Heather Meadows,Shortlisted,0,20,High School,Thomas PLC,,2022-11-22
+411,80,Jessica Fuller,Rejected,0,4,Bachelor,Horne-Schwartz,,2022-04-28
+412,38,Richard Hines,Processed,0,19,Master,Carney-Brown,,2022-07-13
+413,85,Joseph Moore,Accepted,5111475,18,Master,Duncan PLC,,2022-09-29
+414,36,David Reed,Accepted,16042383,2,PhD,Joyce and Sons,,2022-10-04
+415,55,Victoria Pollard,Rejected,0,13,PhD,Hood Group,Culture,2022-02-15
+416,56,Madison Warner,Shortlisted,0,5,Associate,Rios Group,,2022-06-05
+417,24,Michelle Jackson,Processed,0,12,Associate,"Day, Watson and Howell",,2022-04-29
+418,86,Billy Strong,Processed,0,4,Master,Davidson Inc,,2023-07-07
+419,1,Alyssa Sanchez,Processed,0,6,Associate,Downs and Sons,,2023-08-21
+420,37,Kayla Roberts,Processed,0,13,Master,"Smith, Dominguez and Walker",,2023-07-19
+421,75,Miguel Brown,Shortlisted,0,17,High School,Riley Inc,,2023-02-20
+422,79,Christopher Hicks,Processed,0,15,High School,"Gibbs, Patterson and Willis",,2022-04-02
+423,32,Ashley Dickerson,Accepted,5333447,1,Bachelor,Jensen Group,,2023-09-08
+424,89,Jennifer Bauer,Processed,0,0,Master,Phillips and Sons,,2022-08-03
+425,17,James Ford,Processed,0,12,Master,Howard PLC,,2023-10-29
+426,28,Mark Williams,Accepted,9551147,19,Bachelor,"Ryan, Scott and Walters",,2023-06-13
+427,41,Steven Sanders,Shortlisted,0,18,Associate,"Hill, Nelson and Miller",,2023-04-09
+428,22,Mrs. Stefanie Lewis PhD,Processed,0,9,High School,Diaz Ltd,,2022-06-19
+429,37,Lynn Barnes,Shortlisted,0,8,High School,Nelson-Mathis,,2022-03-15
+430,35,Laura Stewart,Accepted,13358532,20,Associate,"Simpson, Gomez and Riley",,2023-11-12
+431,18,Briana Reed,Shortlisted,0,17,Associate,Ali-Smith,,2023-12-16
+432,65,Michelle Anderson,Shortlisted,0,5,High School,"Lozano, Spencer and Castro",,2023-08-15
+433,99,Whitney Morales,Shortlisted,0,10,Master,"Walker, Gomez and Hartman",,2023-01-03
+434,20,Natalie Webb,Processed,0,9,Master,"Campbell, Moore and Decker",,2023-06-28
+435,82,Terri Larson,Accepted,15804516,16,PhD,Gordon LLC,,2023-06-20
+436,27,David Jones,Processed,0,1,High School,Lee-Quinn,,2023-09-09
+437,37,Debra Bailey,Accepted,5584600,1,High School,Smith-Stone,,2022-05-25
+438,93,Lisa Romero,Rejected,0,1,Master,Sanders-Woods,Technical,2023-01-19
+439,81,Jesse Williams,Shortlisted,0,10,High School,Mason-Stephens,,2022-08-26
+440,67,Donald Anderson,Rejected,0,1,Master,"West, Bryant and Mckay",Technical,2022-04-05
+441,64,Stephanie Novak,Accepted,5213753,3,Associate,Velez PLC,,2022-05-15
+442,60,David Fuller,Rejected,0,9,High School,Reed Group,Culture,2023-09-09
+443,26,Veronica Ramsey,Shortlisted,0,1,Bachelor,"Bennett, Young and Cooper",,2022-05-04
+444,83,Christopher Brady,Accepted,6078045,10,Bachelor,Clark Group,,2023-06-22
+445,14,Teresa Sullivan,Processed,0,1,Bachelor,Martinez-Schneider,,2023-10-14
+446,18,Tommy Roy,Accepted,12636444,11,High School,"Beck, Hicks and West",,2022-11-11
+447,2,Wesley James,Accepted,6730829,19,Master,Green Group,,2023-09-01
+448,7,Carrie Shepard,Shortlisted,0,2,Associate,"Bernard, Johnston and Crawford",,2023-02-25
+449,54,Alan Potts,Shortlisted,0,11,PhD,"Moon, Gomez and Manning",,2023-11-01
+450,69,Willie Perkins,Rejected,0,19,Bachelor,"Brock, Bennett and Hahn",,2023-05-24
+451,12,Dylan Wilkinson,Processed,0,11,High School,"Stewart, Tucker and Lee",,2023-10-23
+452,76,Daniel Flores,Processed,0,10,Master,"Jackson, Simpson and Moreno",,2022-12-27
+453,84,Thomas Vaughn,Rejected,0,1,Master,Reed-Mason,,2023-07-15
+454,93,Mr. Matthew Singh,Accepted,16673992,10,Master,"Miller, West and Riddle",,2023-08-21
+455,40,Daniel Mahoney,Processed,0,12,Associate,Duncan Ltd,,2023-09-08
+456,69,Eric Huber,Rejected,0,13,Master,"Perry, Petersen and Flynn",,2022-04-12
+457,79,Sherry Olson,Shortlisted,0,16,Bachelor,Thomas PLC,,2023-12-10
+458,65,Kathleen Owens,Processed,0,12,High School,Howard PLC,,2022-06-17
+459,51,John Hicks,Shortlisted,0,6,Associate,Campbell Group,,2022-12-06
+460,27,Ricky Foster,Processed,0,5,Master,Cervantes-Foster,,2023-01-31
+461,91,Kyle Cox,Processed,0,8,Bachelor,Garcia Inc,,2022-11-15
+462,65,Andrew Hardy,Processed,0,3,PhD,Becker-Tran,,2022-08-20
+463,21,Nicole Glover,Processed,0,4,Master,Murphy-Downs,,2023-06-05
+464,61,Patricia Turner,Accepted,5455570,13,Master,Campbell Inc,,2022-06-19
+465,44,Marissa Diaz,Rejected,0,19,PhD,Larsen-Young,Salary,2022-03-17
+466,34,Guy Lewis,Accepted,12604815,6,Associate,Lopez Ltd,,2022-02-17
+467,2,Travis Rivera,Processed,0,6,Associate,Davis-Campbell,,2022-08-31
+468,92,James Bell,Accepted,16666551,16,High School,Ross Ltd,,2023-09-18
+469,11,Susan Edwards,Processed,0,12,Master,Sanchez-Hancock,,2023-10-06
+470,10,Robert Hall,Accepted,15891338,6,Master,"Miller, Farley and Miller",,2023-02-13
+471,16,Matthew Robinson,Rejected,0,8,Associate,Estrada Inc,,2023-03-31
+472,51,Jose Ferguson,Shortlisted,0,0,Bachelor,"Becker, Mcdaniel and Davis",,2023-11-06
+473,71,Lindsay Douglas,Rejected,0,17,PhD,"Solis, Larson and Navarro",Culture,2022-04-08
+474,61,Mr. Christopher Dunn,Rejected,0,19,Master,"Garcia, Miller and Andrews",Culture,2023-01-30
+475,75,Sarah Gonzalez,Accepted,11914990,9,PhD,Young-Wright,,2022-08-08
+476,10,Brandi Gaines,Processed,0,18,Associate,"Bowen, Frazier and Martinez",,2023-11-07
+477,95,Maria Brown,Accepted,10528078,16,Master,Price-Davis,,2023-08-06
+478,17,Tracey Odonnell,Shortlisted,0,3,Bachelor,Snyder Group,,2022-05-12
+479,80,John Green,Rejected,0,6,Bachelor,"Church, Davies and Jordan",,2023-05-26
+480,84,Karen Stevenson,Rejected,0,11,High School,"Santiago, Rodriguez and Fuentes",Salary,2022-05-18
+481,57,Nancy Brandt,Shortlisted,0,4,High School,"Ayers, Cole and Fritz",,2023-09-30
+482,97,Aaron Mendoza,Shortlisted,0,2,High School,Nichols LLC,,2022-10-28
+483,65,Jennifer Young,Shortlisted,0,20,Master,Hancock-Phillips,,2023-05-23
+484,33,Edward Berger,Rejected,0,10,Bachelor,"Diaz, Russell and Hernandez",Culture,2023-11-11
+485,65,Gabriela Thompson,Rejected,0,13,Associate,Bernard-Miller,Technical,2022-09-20
+486,7,Nichole Edwards,Shortlisted,0,13,Associate,Hall-Stewart,,2022-03-03
+487,77,Sara Ford,Accepted,5832741,17,PhD,Ward LLC,,2022-01-08
+488,25,Mr. Peter Becker,Accepted,8876106,15,High School,Ingram-Anderson,,2022-08-25
+489,12,Colin Moreno,Shortlisted,0,12,Master,Farley Ltd,,2022-05-25
+490,53,Kimberly Carpenter,Accepted,16048328,19,Bachelor,Ruiz-Morris,,2023-01-09
+491,100,David Massey,Accepted,19656699,6,PhD,Schultz and Sons,,2022-03-18
+492,96,Cameron Olson,Rejected,0,4,Bachelor,"Reeves, Mcclain and Evans",Salary,2023-03-06
+493,64,Carol Moon,Processed,0,17,Associate,Lee-Brooks,,2022-05-09
+494,92,Richard Carter,Processed,0,0,Bachelor,Martinez-Vang,,2022-03-31
+495,54,Susan Hughes,Rejected,0,1,High School,Lowe Inc,Salary,2023-06-09
+496,85,Jordan Stevens,Processed,0,5,PhD,"Baker, Taylor and Bryan",,2023-03-25
+497,100,Samuel Harris,Shortlisted,0,16,Associate,"Baker, Erickson and Long",,2022-06-11
+498,46,Grant Lopez,Processed,0,15,Associate,Smith-Johnston,,2022-05-15
+499,93,Kristen Gray DVM,Rejected,0,16,PhD,Wright-Leach,Culture,2023-12-06
+500,12,Deanna Bowman,Rejected,0,8,Bachelor,Simmons Ltd,,2022-08-09
