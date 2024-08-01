@@ -1,5 +1,9 @@
 # Recruitment Management Dashboard
 
+## Access
+
+You can access the dashboard through this link: [Recruitment Management Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDQxMmQwM2QtMzcxOS00MDIxLThkM2ItNDUwM2JjYzkzMzdjIiwidCI6IjZiOWFiYjk5LTY4OWMtNDcxMi04OTU2LTU1MjBlYjY2NWZiMCIsImMiOjEwfQ%3D%3D)
+
 ## Project Overview
 
 The Recruitment Management Dashboard is an analytical tool designed to streamline the hiring process by providing comprehensive visual insights into recruitment data. This dashboard is crafted to assist HR managers and recruiters in tracking and analyzing key metrics related to job applications, hiring costs, and applicant statuses. The project comprises two main pages, each with distinct functions and displays.
@@ -15,6 +19,8 @@ The primary goal of this project is to develop a user-friendly dashboard that:
 ## Key Features
 
 ### Page 1: Summary Dashboard
+
+![Summary Dashboard](path/to/summary_dashboard_image.png)
 
 1. **Graph Area (Comparison Hired and Required)**:
    - Displays a time-based line graph comparing the number of positions required versus positions hired.
@@ -44,6 +50,8 @@ The primary goal of this project is to develop a user-friendly dashboard that:
    - Provides a quick overview of the current hiring situation.
 
 ### Page 2: Detailed Applicant Information
+
+![Applicant Table](path/to/applicant_table_image.png)
 
 1. **Applicant Table**:
    - Provides detailed information about each applicant.
@@ -80,7 +88,3 @@ Potential future improvements for the dashboard include:
 ## Conclusion
 
 The Recruitment Management Dashboard is a powerful tool that transforms raw recruitment data into actionable insights. It supports HR professionals in optimizing their hiring processes, managing budgets, and ultimately building stronger teams. This project has been an invaluable learning experience in data analysis and visualization, equipping me with the skills to tackle more complex analytical challenges in the future.
-
-## Access
-
-You can access the dashboard through this link: [Dashboard Link]
