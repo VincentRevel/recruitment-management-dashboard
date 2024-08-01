@@ -45,9 +45,9 @@ The primary goal of this project is to develop a user-friendly dashboard that:
    - **Job Location**: Location of the job openings.
    - **Post Date**: Date when the job postings were made.
 
-6. **Short Message Card**:
+6. **Short Message Card**:  
 ![short message 1](Images/shortmessage_1.png)
-![short message 2](Images/shortmessage_2.png)
+![short message 2](Images/shortmessage_2.png)  
    - Displays a brief status message based on the job hiring status and costs.
    - Provides a quick overview of the current hiring situation.
 
